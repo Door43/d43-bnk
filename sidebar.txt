@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bnk:home|Door43 (bnk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bnk|d43-bnk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bnk/archive/master.zip|d43-bnk.zip]]
+
+**Recent Changes**
+{{changes>ns = bnk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bnk|Ethnologue data]]
+
